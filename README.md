@@ -1,2 +1,2 @@
 # imd-ufrn
-Repositório da Paest
+Repositório da Palestra Desafio Python IMD
